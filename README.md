@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ogasaputra
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Ogasaputra/Ogasaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+OK bro where's
+![IMG_20230919_195510](https://github.com/Ogasaputra/Ogasaputra/assets/152635540/65cf0052-def6-4892-8406-3d4f58dfa6e2)
+
